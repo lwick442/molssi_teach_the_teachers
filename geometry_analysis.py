@@ -2,6 +2,8 @@
 """
 geometry.analysis.py
 This module contains the geometry analysis project.
+
+Author: Lauren Wickstrom
 """
 
 import numpy
